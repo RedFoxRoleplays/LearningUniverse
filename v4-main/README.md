@@ -1,4 +1,4 @@
-# Art Class
+# LearningUniverse
 Official website of Art Class
 
 ### Deploy
