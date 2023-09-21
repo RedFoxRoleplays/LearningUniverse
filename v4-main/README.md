@@ -1,5 +1,5 @@
 # LearningUniverse
-Official website of Art Class
+Official website of LearningUniverse
 
 ### Deploy
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/art-class/v4)
@@ -20,13 +20,5 @@ Once the repo has been cloned run the following commands individually.
 $ npm install
 $ npm start
 ````
-## Contributors for Art Class V4
-
-[![Contrib](https://contrib.rocks/image?repo=art-class/v4#)](https://github.com/art-class/v4/graphs/contributors)
-
-## Contributors for Art Class V3
-
-[![Contrib](https://contrib.rocks/image?repo=art-class/v3#)](https://github.com/art-class/v3/graphs/contributors)
-
 ### Support
-If you need help with the site or deploying, join our Discord at https://discord.gg/tMaHQ2dyk5
+If you need help with the site or deploying, join our Discord at https://discord.com/invite/5Qxt93XE4N
