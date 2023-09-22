@@ -14,7 +14,7 @@ var apps = [
     {
       "id": "discord",
       "title": "Discord",
-      "url": "https://discord.com/app",
+      "url": "https://discord.com",
       'image': 'https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg'
     },
     {
@@ -50,7 +50,7 @@ var apps = [
     {
       "id": "reddit",
       "title": "Reddit",
-      "url": "https://reddit.com",
+      "url": "https://www.reddit.com/",
       'image': 'https://www.redditinc.com/assets/images/site/reddit-logo.png'
     },
     {
